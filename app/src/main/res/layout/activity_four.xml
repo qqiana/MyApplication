@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FourActivity"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:text="Android应用程序开发"
+        android:textSize="22sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"/>
+    <TextView
+        android:text="        Android是一个优秀的开源手机平台。本课程由浅入深人地介
+绍了Android应用程序的开发，内容分为11章，包括Android的简
+介，开发环境，应用程序、Anndroid生命周期和用户界面，组建通
+信与广播消息，后台服务，数据存储与访问，位置服务与地图应
+用，Android NDK开发及综合示例设计与开发。 "
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+
+</LinearLayout>
